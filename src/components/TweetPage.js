@@ -11,7 +11,7 @@ class TweetPage extends Component {
       <div>
         <Tweet id={id} />
         <NewTweet id={id} />
-        {replies.length && <h3 className="center">Replies</h3>}
+        {replies.length !== 0 && <h3 className="center">Replies</h3>}
         <ul>
           {replies.map((replyId) => (
             <li key={replyId}>
