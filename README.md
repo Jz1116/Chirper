@@ -9,11 +9,11 @@ Most of the commits in this repository correspond to videos in the program.
 * clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
 * install the dependencies - `npm install`
 
-## Contributing
-
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+## Get Started
+To get started with the project, first you need to clone the project to your local repository.
+```
+git clone https://github.com/Jz1116/Chirper.git
+```
 
 ## License
 
