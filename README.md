@@ -15,6 +15,18 @@ To get started with the project, first you need to clone the project to your loc
 git clone https://github.com/Jz1116/Chirper.git
 ```
 
+Then, install the necessary dependencies for the project
+```
+npm install
+```
+
+Finally, start the project
+```
+npm start
+```
+
+You can see the project on your localhost. 
+
 ## License
 
 MIT
